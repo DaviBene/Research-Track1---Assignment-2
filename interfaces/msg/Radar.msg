@@ -1,0 +1,3 @@
+float64 distance
+string direction
+Threshold threshold
