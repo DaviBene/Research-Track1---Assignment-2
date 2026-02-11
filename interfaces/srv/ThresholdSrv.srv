@@ -1,4 +1,4 @@
-Threshold value
+string sign
+float64 threshold
 ---
 bool success
-string message
